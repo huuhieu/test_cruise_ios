@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 25
+build
+Entitlements.plist
+
+K 13
+svn:mergeinfo
+V 139
+/branches/2.6:1372
+/branches/2.8:2041-2044,2050,2052-2054,2061-2063
+/branches/2.9.1:2220-2224,2291-2292,2294-2323
+/branches/3.1.X:3471-3472
+END
